@@ -3,7 +3,7 @@
 
 ### Welcome to my GitHub,hope we can cheer each other up
 
-### ![Static Badge](https://img.shields.io/badge/-FF0000?logo=youtube&logoColor=fff&labelColor=2c2a2a)[YouTube Channel](https://www.youtube.com/@bftsai1106)
+### [![Static Badge](https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=fff&labelColor=2c2a2a)](https://www.youtube.com/@bftsai1106)
 ## 🕺&ensp;作者
   - [BF Tsai](https://github.com/bftsai)  
 
