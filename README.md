@@ -19,7 +19,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bftsai&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bftsai&layout=compact)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bftsai&show_icons=true&theme=synthwave)  
   
   
