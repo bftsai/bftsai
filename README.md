@@ -12,7 +12,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)   
 ![Gsap](https://img.shields.io/badge/GreenSock-learning-88CE02?logo=greensock) 
-https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+![JavaScript](https://img.shields.io/badge/javascript-learning-blue?logo=javascript)
 <!-- #88CE02
 greensock 
 GreenSock
