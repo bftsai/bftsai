@@ -28,7 +28,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bftsai&show_icons=true&theme=synthwave"
+    srcset="https://github-readme-stats.vercel.app/api?username=bftsai&show_icons=true&theme=synthwave&border_color=a008a0"
     media="(prefers-color-scheme: dark)"
   />
   <source
