@@ -24,6 +24,7 @@
 ### 🤝&ensp;協作  
 ![Static Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&labelColor=2c2a2a)  
 
+## 📊&ensp;GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bftsai&layout=compact&title_color=fff&text_color=b83eb8&bg_color=db4cdb28&border_color=a008a0)  
 
 <picture>
@@ -41,7 +42,7 @@
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bftsai&show_icons=true&theme=synthwave)  
  -->  
-  
+## &ensp;📂里程碑
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bftsai&repo=cut-class-week8&bg_color=db4cdb28&border_color=a008a0&text_color=fff&icon_color=fff)](https://github.com/bftsai/cut-class-week8/blob/master/README.md)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bftsai&repo=project_SearchforMeow&bg_color=db4cdb28&border_color=a008a0&text_color=fff&icon_color=fff)](https://github.com/bftsai/project_SearchforMeow/blob/dev/README.md)  
   
