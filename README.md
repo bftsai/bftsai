@@ -12,10 +12,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)   
 ![Gsap](https://img.shields.io/badge/GreenSock-learning-88CE02?logo=greensock) 
-![JavaScript](https://img.shields.io/badge/javascript-learning-blue?logo=javascript)
-<!-- #88CE02
-greensock 
-GreenSock
+![JavaScript](https://img.shields.io/badge/javascript-learning-#F7DF1E?logo=javascript)
+<!-- 用法
+(https://img.shields.io/badge/javascript-learning-#F7DF1E?logo=javascript)
+(網址/badge/標籤左邊文字-標籤右邊文字-#標籤右邊顏色?logo=標籤logo 名稱)
 -->
 
 
