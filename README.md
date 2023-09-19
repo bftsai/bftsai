@@ -18,12 +18,14 @@
 ### 🤝&ensp;協作  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bftsai&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bftsai&show_icons=true&theme=synthwave)  
   
   
   
   
-#### README.md 工具
+#### README.md 協作工具  
 [anuraghazra](https://github.com/anuraghazra/github-readme-stats#themes)  
 [Shields.io](https://shields.io/badges/app-veyor-build)  
 [Simple Icons](https://simpleicons.org)  
