@@ -1,11 +1,16 @@
 # Hello,I'm BF Tsai
 ![](https://komarev.com/ghpvc/?username=bftsai&color=a008a0&style=plastic)  
 
-### Welcome to my GitHub,hope we can cheer each other up
+### Welcome to my GitHub,hope we can cheer each other up  
 
 ### [![Static Badge](https://img.shields.io/badge/YouTube-Channel-FF0000?logo=youtube&logoColor=fff&labelColor=2c2a2a)](https://www.youtube.com/@bftsai1106)👈 Click me 
 ## 🕺&ensp;作者
-  - [BF Tsai](https://github.com/bftsai)  
+  - [BF Tsai](https://github.com/bftsai)
+
+## ![Codewars](https://img.shields.io/badge/codewars-B1361E?logo=Codewars&labelColor=000)&ensp;Codewars  
+<a target="_blank" href="https://www.codewars.com/users/bf_tsai/badges/small">
+  <img src="https://www.codewars.com/users/bf_tsai/badges/small">
+</a>  
 
 ## 🖥&ensp;Skills  
 ### 🧑‍💻&ensp;前端
