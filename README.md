@@ -8,7 +8,7 @@
   - [BF Tsai](https://github.com/bftsai)
 
 ## ![Codewars](https://img.shields.io/badge/codewars-B1361E?logo=Codewars&labelColor=000)&ensp;Codewars  
-<a target="_blank" href="https://www.codewars.com/users/bf_tsai/badges/small">
+<a target="_blank" href="https://www.codewars.com/users/bf_tsai">
   <img src="https://www.codewars.com/users/bf_tsai/badges/small">
 </a>  
 
